@@ -1,1 +1,0 @@
-Shading Model
