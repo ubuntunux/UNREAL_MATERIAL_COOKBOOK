@@ -1,3 +1,5 @@
+> [UNREAL MATERIAL COOKBOOK](../README.md) / [Advanced](README.md) / Triplanar auto UV mapping.md
+## Triplanar auto UV mapping
 Automatically generate UV coordiante by world position.
 
 
